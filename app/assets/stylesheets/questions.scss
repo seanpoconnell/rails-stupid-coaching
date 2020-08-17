@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  width: 300px;
+}
+
+#btn {
+  background: rgb(79, 195, 179);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 20px;
+}
+
+.card {
+  background: white;
+  box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  text-align: left;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
